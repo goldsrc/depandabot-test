@@ -12,8 +12,8 @@ dependencies:
     specifier: ^4.17.20
     version: 4.17.21
   react:
-    specifier: 18.0.0
-    version: 18.0.0
+    specifier: 18.2.0
+    version: 18.2.0
 
 packages:
 
@@ -56,8 +56,8 @@ packages:
       js-tokens: 4.0.0
     dev: false
 
-  /react@18.0.0:
-    resolution: {integrity: sha512-x+VL6wbT4JRVPm7EGxXhZ8w8LTROaxPXOqhlGyVSrv0sB1jkyFGgXxJ8LVoPRLvPR6/CIZGFmfzqUa2NYeMr2A==}
+  /react@18.2.0:
+    resolution: {integrity: sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ==}
     engines: {node: '>=0.10.0'}
     dependencies:
       loose-envify: 1.4.0
